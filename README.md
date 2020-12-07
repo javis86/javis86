@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently working with C#, MassTransit, RabbitMQ, UnitTesting, Clean Code and Domain Driven Design.
+- 😄 Hobbies: Self improvement, Code learning, Meditation and Gym.
+
 <!--
 **javis86/javis86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
