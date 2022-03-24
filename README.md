@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working with C#, MassTransit, RabbitMQ, UnitTesting, Clean Code and Domain Driven Design.
+- 🌱 I’m currently working with C#, MassTransit, Node-Red, RabbitMQ, UnitTesting, Clean Code and Domain Driven Design.
 - 😄 Hobbies: Self improvement, Code learning, Meditation and Gym.
 
 <!--
