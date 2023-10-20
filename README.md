@@ -5,15 +5,15 @@
 
 ## Favourite programming books
 
-- Clean Code - Robert C. Martin
-- Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans
-- Head First - Design Patterns - Building Extensible & Maintainable Object-Oriented Software - Eric Freeman & Elisabeth Robson with Kathy Sierra & Bert Bates
-- Working effectively with legacy code - Michael Feathers
-- Refactoring - Improving the Design of Existing Code -2nd - Marting Fowler, Kent Beck contributions
-- Dependency Injection in .NET - Mark Seeman
-- Concurrency in C# Cookbook - Asynchronous, Parallel, and Multithreaded Programming - Stephen Clear
-- Hands-On Domain-Driven Design with .NET Core - Alexey Zimarev
-- Dependency injection - Principles, Practices and Patterns - Steven van Deursen Mark Seemann  
+- **Clean Code** - Robert C. Martin
+- **Domain-Driven Design: Tackling Complexity in the Heart of Software** - Eric Evans
+- **Head First - Design Patterns - Building Extensible & Maintainable Object-Oriented Software** - Eric Freeman & Elisabeth Robson with Kathy Sierra & Bert Bates
+- **Working effectively with legacy code** - Michael Feathers
+- **Refactoring - Improving the Design of Existing Code -2nd** - Marting Fowler, Kent Beck contributions
+- **Dependency Injection in .NET** - Mark Seeman
+- **Concurrency in C# Cookbook - Asynchronous, Parallel, and Multithreaded Programming** - Stephen Clear
+- **Hands-On Domain-Driven Design with .NET Core** - Alexey Zimarev
+- **Dependency injection - Principles, Practices and Patterns** - Steven van Deursen Mark Seemann  
 
 <!--
 **javis86/javis86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
